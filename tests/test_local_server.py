@@ -40,6 +40,13 @@ class LocalServerTests(unittest.TestCase):
         with urlopen(request, timeout=2) as response:
             self.assertEqual(response.status, 200)
 
+    def test_launcher_opens_only_editor(self):
+        with patch.object(local_server.webbrowser, "open") as open_browser:
+            self.assertTrue(local_server.open_editor())
+        open_browser.assert_called_once_with(
+            "http://localhost:8080/local-editor/", new=2
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
