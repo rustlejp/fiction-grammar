@@ -4,7 +4,7 @@
 
 ## 公開サイト
 
-GitHub Pagesで次のURLへ公開する予定です。
+GitHub Pagesで次のURLに公開しています。
 
 ```text
 https://rustlejp.github.io/fiction-grammar/
