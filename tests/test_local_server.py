@@ -36,15 +36,22 @@ class LocalServerTests(unittest.TestCase):
             self.assertEqual(error.exception.code, 404)
 
     def test_head_for_public_files(self):
-        request = Request(self.base + "/docs/data/entries.json", method="HEAD")
-        with urlopen(request, timeout=2) as response:
-            self.assertEqual(response.status, 200)
+        for path in (
+            "/docs/data/entries.json",
+            "/docs/js/local-admin.js",
+            "/docs/css/local-admin.css",
+            "/local-editor/index.html",
+        ):
+            with self.subTest(path=path):
+                request = Request(self.base + path, method="HEAD")
+                with urlopen(request, timeout=2) as response:
+                    self.assertEqual(response.status, 200)
 
-    def test_launcher_opens_only_editor(self):
+    def test_launcher_opens_dictionary(self):
         with patch.object(local_server.webbrowser, "open") as open_browser:
-            self.assertTrue(local_server.open_editor())
+            self.assertTrue(local_server.open_dictionary())
         open_browser.assert_called_once_with(
-            "http://localhost:8080/local-editor/", new=2
+            "http://localhost:8080/docs/", new=2
         )
 
 

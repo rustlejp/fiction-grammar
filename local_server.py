@@ -65,13 +65,13 @@ def already_running() -> bool:
         return False
 
 
-def open_editor() -> bool:
+def open_dictionary() -> bool:
     if not (ROOT / "local-editor" / "index.html").exists():
         print("ローカルエディターが見つかりません。")
         return False
-    editor = f"{BASE_URL}/local-editor/"
-    print(f"編集: {editor}")
-    webbrowser.open(editor, new=2)
+    dictionary = f"{BASE_URL}/docs/"
+    print(f"辞書: {dictionary}（各ページから編集できます）")
+    webbrowser.open(dictionary, new=2)
     return True
 
 
@@ -80,8 +80,8 @@ def main() -> int:
         server = LocalServer(("::1", PORT), LocalHandler)
     except OSError:
         if already_running():
-            print("創作文法辞書は既に起動しています。エディターを開きます。")
-            return 0 if open_editor() else 1
+            print("創作文法辞書は既に起動しています。辞書を開きます。")
+            return 0 if open_dictionary() else 1
         print("ポート8080を別のツールが使用中です。")
         print("そのツールを停止してから、もう一度このファイルを開いてください。")
         print("下書きを守るため、自動で別ポートには切り替えません。")
@@ -93,7 +93,7 @@ def main() -> int:
         if not already_running():
             print("localhost:8080 を確認できません。別のツールが応答している可能性があります。")
             return 1
-        if not open_editor():
+        if not open_dictionary():
             return 1
         print("このウィンドウを閉じるとローカルページは停止します。")
         while worker.is_alive():
