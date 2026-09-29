@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import hashlib
 import posixpath
+import socket
 import sys
 import threading
 import webbrowser
@@ -52,6 +53,7 @@ class LocalHandler(SimpleHTTPRequestHandler):
 
 
 class LocalServer(ThreadingHTTPServer):
+    address_family = socket.AF_INET6
     daemon_threads = True
 
 
@@ -75,7 +77,7 @@ def open_pages() -> None:
 
 def main() -> int:
     try:
-        server = LocalServer(("127.0.0.1", PORT), LocalHandler)
+        server = LocalServer(("::1", PORT), LocalHandler)
     except OSError:
         if already_running():
             print("創作文法辞書は既に起動しています。ページを開きます。")
@@ -94,7 +96,8 @@ def main() -> int:
             return 1
         open_pages()
         print("このウィンドウを閉じるとローカルページは停止します。")
-        worker.join()
+        while worker.is_alive():
+            worker.join(timeout=0.5)
     except KeyboardInterrupt:
         print("\nローカルページを停止しました。")
     finally:

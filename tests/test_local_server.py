@@ -10,8 +10,8 @@ import local_server
 class LocalServerTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.server = local_server.LocalServer(("127.0.0.1", 0), local_server.LocalHandler)
-        cls.base = f"http://127.0.0.1:{cls.server.server_port}"
+        cls.server = local_server.LocalServer(("::1", 0), local_server.LocalHandler)
+        cls.base = f"http://localhost:{cls.server.server_port}"
         cls.worker = threading.Thread(target=cls.server.serve_forever, daemon=True)
         cls.worker.start()
 
