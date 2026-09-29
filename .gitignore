@@ -3,3 +3,4 @@ local-data/
 .browser-*/
 .shot-*/
 mvp-*.png
+__pycache__/
