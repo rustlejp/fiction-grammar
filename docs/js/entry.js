@@ -3,8 +3,13 @@
   const host = document.getElementById("entryDetail");
   try {
     const hasAdmin = await DictionaryLocalAdmin.available();
-    if (hasAdmin) DictionaryLocalAdmin.addNavigation();
-    const entries = await DictionaryData.loadEntries(false);
+    if (hasAdmin) {
+      DictionaryLocalAdmin.addNavigation();
+      DictionaryLocalAdmin.watchWorkspace();
+    }
+    const entries = hasAdmin
+      ? await DictionaryLocalAdmin.loadEntries()
+      : await DictionaryData.loadEntries(false);
     const id = new URLSearchParams(location.search).get("id");
     const entry = entries.find(item => item.id === id);
     if (!entry) throw new Error("指定された公開項目は見つかりませんでした。");

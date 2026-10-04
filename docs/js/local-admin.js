@@ -37,5 +37,34 @@
     return link;
   }
 
-  window.DictionaryLocalAdmin = { available, addNavigation, editLink };
+  async function loadEntries() {
+    if (!isEditorOrigin) return DictionaryData.loadEntries(false);
+    const published = await DictionaryData.loadEntries(true);
+    const saved = localStorage.getItem("sousakuGrammar.editor.v1.workspace");
+    if (!saved) return published;
+    let workspace;
+    try {
+      workspace = JSON.parse(saved);
+      if (!Array.isArray(workspace) || workspace.some(entry => !entry || typeof entry.id !== "string")) {
+        throw new Error("Invalid workspace");
+      }
+    } catch {
+      throw new Error("保存済みの編集データを読み込めません。編集画面で作業データを確認してください。");
+    }
+    const merged = new Map(published.map(entry => [entry.id, entry]));
+    workspace.forEach(entry => merged.set(entry.id, DictionaryData.normalizeEntry(entry)));
+    return [...merged.values()];
+  }
+
+  function watchWorkspace() {
+    if (!isEditorOrigin) return;
+    window.addEventListener("pageshow", event => {
+      if (event.persisted) location.reload();
+    });
+    window.addEventListener("storage", event => {
+      if (event.key === "sousakuGrammar.editor.v1.workspace") location.reload();
+    });
+  }
+
+  window.DictionaryLocalAdmin = { available, addNavigation, editLink, loadEntries, watchWorkspace };
 })();
