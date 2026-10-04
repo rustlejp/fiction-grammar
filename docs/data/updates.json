@@ -1,5 +1,251 @@
 [
   {
+    "date": "2026-10-04",
+    "title": "人物設定・決め台詞・感情表現など10件を追加",
+    "summary": "学生の一人暮らし、子どものラスボス、戦闘の決め台詞、独り言、張り出し崖、顔の感情記号などを収録しました。",
+    "entry_ids": [
+      "student-protagonist-lives-alone",
+      "child-is-the-final-boss",
+      "where-are-you-aiming",
+      "dont-touch-my-food-protector",
+      "im-the-one-who-will-defeat-you",
+      "thoughts-spoken-aloud-for-exposition",
+      "pointed-overhanging-cliff-viewpoint",
+      "emotion-symbols-on-face",
+      "mucha-shiyagatte",
+      "second-and-third-enemies-will-follow"
+    ],
+    "entry_titles": [
+      "学生の主人公が一人暮らし",
+      "子どもがラスボス",
+      "「どこを狙っている」",
+      "「私の食料に手を出すな」",
+      "「そいつを倒すのは俺だ」",
+      "心の声でよいことを全部口に出す",
+      "尖った張り出し崖の先で話す",
+      "顔に感情記号が出る",
+      "「むちゃしやがって」",
+      "「私を倒しても第二、第三の……」"
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "創作世界で眼鏡をかける人物の少なさを追加",
+    "summary": "眼鏡を識別記号にする人物配置と背景の省略、眼鏡だけで本人を判断してしまうコントを収録しました。",
+    "entry_ids": ["few-glasses-wearers-in-fiction"],
+    "entry_titles": ["創作世界のメガネ率が低い"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "試合中に続く長い会話を追加",
+    "summary": "短い声かけと長い対話の違い、競技の進行やマナーとの関係、運営が普通に注意するコントを収録しました。",
+    "entry_ids": ["long-conversations-during-competition"],
+    "entry_titles": ["試合中に長い会話をする"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "長い台詞で巨大に見えるスポーツのフィールドを追加",
+    "summary": "発話や心の声の長さと走行距離のずれ、静止・スローなどの調整、語る間にゴールを通り過ぎるコントを収録しました。",
+    "entry_ids": ["long-dialogue-makes-sports-field-enormous"],
+    "entry_titles": ["長い台詞の間も走るので、スポーツのフィールドが巨大に見える"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "証拠を求める台詞が犯人らしく聞こえる逆転を追加",
+    "summary": "犯人の最後の抵抗という定番と、無実でも口にしにくくなる印象、台詞だけで疑う側を笑うコントを収録しました。",
+    "entry_ids": ["asking-for-evidence-sounds-guilty"],
+    "entry_titles": ["「証拠はあるんですか？」と言うと犯人扱いされる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "茶柱の吉兆と道具の条件を追加",
+    "summary": "茶柱を幸運の前触れとする古典と、茎が湯呑みに入る条件、入れないはずの茎を使った小さなイリュージョンのコントを収録しました。",
+    "entry_ids": ["upright-tea-stalk-means-good-luck"],
+    "entry_titles": ["茶柱が立つと良いことがある"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "仲間の不良に託される人情の厚さを追加",
+    "summary": "荒っぽさと情の深さのギャップ、敵役の不良との描き分け、義理や上下関係を背景にした人物設定を収録しました。",
+    "entry_ids": ["delinquent-friend-is-big-hearted"],
+    "entry_titles": ["仲間の不良キャラは人情に厚い"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "眼鏡を外すと美男美女になるギャップを追加",
+    "summary": "目元の省略と前振りによる素顔の開示、古典ゆえの先読み、最初からスタイリッシュな眼鏡姿との違いを収録しました。",
+    "entry_ids": ["glasses-off-reveals-beauty"],
+    "entry_titles": ["眼鏡を外すと美男美女"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "「犯人はお前だ！」という断定と呼称を追加",
+    "summary": "推理を対決へ変える決め台詞の働き、相手への敬意と誤認の問題、過剰に丁重なコントへの反転を収録しました。",
+    "entry_ids": ["the-culprit-is-you"],
+    "entry_titles": ["「犯人はお前だ！」"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "幸福な帰還後の予定が死亡フラグになる型を追加",
+    "summary": "失われる未来を先に示す悲劇の下準備と、メタ発言や生還による反転、死亡フラグ大喜利への展開を収録しました。",
+    "entry_ids": ["happy-homecoming-plans-signal-death"],
+    "entry_titles": ["幸せな帰る理由を語ると死亡フラグになる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "地球のために人類を排除する敵の思想を追加",
+    "summary": "AIの人類排除や自分たちだけを残す新世界計画を、環境への問題意識、極端な結論、自己特権化に分けて収録しました。",
+    "entry_ids": ["humanity-is-earths-unnecessary-species"],
+    "entry_titles": ["人間こそ地球に不要だと断じる敵"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "王との会話を高い玉座からの謁見にまとめる型を追加",
+    "summary": "上下関係を素早く伝える演出の利点と、国・時代・宮廷、面会の目的による場の描き分けを収録しました。",
+    "entry_ids": ["every-royal-conversation-is-a-throne-audience"],
+    "entry_titles": ["王との会話が、何でも高い玉座からの謁見になる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "交通事故の定番として描かれる大型トラックを追加・補正",
+    "summary": "転生に限定せず、それ以前からの恋愛漫画や実写ドラマの事故表現として整理しました。車種変更による印象の差と、実在の車両や職業への配慮も収録しています。",
+    "entry_ids": ["reincarnation-accident-is-a-large-truck"],
+    "entry_titles": ["交通事故で迫ってくる車は大型トラック"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "無能力判定から最強へ反転する導入を追加",
+    "summary": "測定限界や無効化能力による誤判定と、展開の意外性より能力の発想や使い方を楽しませる構成を収録しました。",
+    "entry_ids": ["judged-powerless-actually-strongest"],
+    "entry_titles": ["能力なしと判定された人物が、実は最強"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "少年・少女の思い込みが覆る定番を追加",
+    "summary": "予想されやすい開示とその外し方、隠す事情や感情で読ませる構成、本人の偽装と周囲の誤認の違いを収録しました。",
+    "entry_ids": ["assumed-boy-revealed-as-girl-and-reverse"],
+    "entry_titles": ["少年だと思ったら少女、少女だと思ったら少年"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "塀の上で出会う猫の配置を追加",
+    "summary": "猫と人物の高さや視線を使う演出、塀の連続性や隠れ場所との関係、人を弄ぶ猫への応用を収録しました。",
+    "entry_ids": ["outdoor-cat-on-top-of-wall"],
+    "entry_titles": ["外で出会う猫は塀の上にいる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "「まだぜんぜん酔ってない」の自己認識のずれを追加",
+    "summary": "本人と周囲の基準の違いを伝える定番の台詞と、現実との重なり、演技・大喜利・モノマネへの広がりを収録しました。",
+    "entry_ids": ["im-not-drunk-yet"],
+    "entry_titles": ["「まだぜんぜん酔ってない」"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "敗北した悪役が酒を飲む所作を追加",
+    "summary": "格下にしてやられた悪役の怒りや余裕を一杯の酒で見せる演技と、やられ方の美学、コントでの外し方を収録しました。",
+    "entry_ids": ["outwitted-villain-drinks-at-desk"],
+    "entry_titles": ["してやられた悪役が、机の蒸留酒を飲む"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "奇行で非凡さを示す天才像を追加",
+    "summary": "日常のずれによって天才を伝える古典的な造形と、知性・性格・生活習慣を同一視しないための注意点を収録しました。",
+    "entry_ids": ["eccentric-behavior-signals-genius"],
+    "entry_titles": ["飛び抜けた天才は普段から奇行が目立つ"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "バイクアクションと左右の操作系のずれを追加",
+    "summary": "右手に武器を持つ構図とスロットル操作の関係、惰性走行との区別、車種ごとの機構を確認する重要性を収録しました。",
+    "entry_ids": ["motorcycle-action-ignores-throttle-hand"],
+    "entry_titles": ["バイクで武器を持つとき、左手だけで運転する"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "「もう食べられないよ」という定番の寝言を追加",
+    "summary": "食いしん坊の幸福な夢を一言で伝える働きと、古典の言い換えが大喜利やコントになる可能性を収録しました。",
+    "entry_ids": ["cant-eat-another-bite-sleep-talk"],
+    "entry_titles": ["「もう食べられないよ」という寝言"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "万能なハッカーと派手な端末画面を追加",
+    "summary": "機密システムや未知の端末にも通用する技能と、観客に作業を見せるグラフィカルなUIを、別々の創作文法として収録しました。",
+    "entry_ids": ["hacker-can-access-any-secret-system", "hacker-terminals-have-flashy-interfaces"],
+    "entry_titles": ["ハッカーはどんな秘密機関のシステムにも入れる", "ハッカーや秘密機関の端末はやたらグラフィカル"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "美味しさを非現実的な心象風景にする表現を追加",
+    "summary": "飛翔や変身などで味を伝える働きと、リアクションの大喜利化による難しさ、心象を物理的に再現するコントを収録しました。",
+    "entry_ids": ["delicious-food-triggers-fantastic-inner-scenes"],
+    "entry_titles": ["美味しさで非現実的な心象風景が始まる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "長年の情報屋が本編で最期を迎える型を追加",
+    "summary": "長い付き合いと登場後の短い余命の落差、事件の危険を伝える働き、死にそうで死なない情報屋への反転を収録しました。",
+    "entry_ids": ["longtime-informant-dies-in-the-story"],
+    "entry_titles": ["長年の付き合いの情報屋が、作中で死ぬ"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "時限爆弾の直前解決と定番化した裏切りを追加",
+    "summary": "ゼロ寸前の停止と、時間の急減、偽の表示や装置、不発の罠など、外し方まで古典になった展開を収録しました。",
+    "entry_ids": ["time-bomb-stops-at-last-second"],
+    "entry_titles": ["時限爆弾は残り時間ぎりぎりで止まる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "戻らない外出者と期待される再会を追加",
+    "summary": "偵察や物資調達に出た人物の役割による生還予想と、お約束を知って再会を楽しむ見方、期待を活かした裏切りを収録しました。",
+    "entry_ids": ["missing-scouts-return-by-character-importance"],
+    "entry_titles": ["偵察や物資調達から戻らない脇役、後で再会する主要人物"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "悲しみの雨から風邪へ進む定番を追加",
+    "summary": "傘もささず雨に打たれた後に寝込む進行と、心身の弱りを重ねる働き、定番すぎてコントに見える可能性を収録しました。",
+    "entry_ids": ["sorrowful-rain-leads-to-a-cold"],
+    "entry_titles": ["悲しみの中で雨に打たれると風邪を引く"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "興奮を鼻血で伝えるギャグ表現を追加",
+    "summary": "少量から噴出までの誇張、視線の先を描かない間接表現、実際の鼻血の原因との区別を収録しました。",
+    "entry_ids": ["nosebleed-from-sexy-sights"],
+    "entry_titles": ["セクシーな場面で鼻血が出る"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "頭を撫でる親愛表現と文化差を追加",
+    "summary": "かわいがる意図と相手の受け止め方のずれ、接触への意思確認、異世界の禁忌を通じた文化差の描写を収録しました。",
+    "entry_ids": ["head-patting-as-universal-affection"],
+    "entry_titles": ["かわいい相手の頭を撫でる"]
+  },
+  {
+    "date": "2026-09-30",
+    "title": "写真に魂を抜かれるという恐怖の定番を追加",
+    "summary": "史実の普及とは区別した古典的な反応、コメディとシリアスでの扱い、本当に魂を奪う設定への反転を収録しました。",
+    "entry_ids": ["photographs-steal-the-soul"],
+    "entry_titles": ["写真を撮られると魂を抜かれる"]
+  },
+  {
+    "date": "2026-09-29",
+    "title": "額の中央への着弾という死亡表現を追加",
+    "summary": "死亡を明快に伝える整った着弾位置と、微妙にずらした位置で生々しさを出す描写の違いを収録しました。",
+    "entry_ids": ["bullet-hits-center-of-forehead"],
+    "entry_titles": ["銃弾が額のど真ん中に当たる"]
+  },
+  {
+    "date": "2026-09-29",
+    "title": "関係の積み重ねを飛び越えるハレムを追加",
+    "summary": "感謝から強い愛情への飛躍、好意を報酬として重ねる進行、多角関係の維持と読者による受け止め方の違いを収録しました。",
+    "entry_ids": ["harem-without-relationship-buildup"],
+    "entry_titles": ["関係の積み重ねなく主人公が好かれるハレム"]
+  },
+  {
     "date": "2026-09-28",
     "title": "物語の外側へ語りかけるメタ発言を追加",
     "summary": "読者や視聴者への呼びかけ、創作物としての自覚が生む笑いと、リアルな作風での没入感への影響を収録しました。",
