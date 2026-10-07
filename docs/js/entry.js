@@ -18,7 +18,7 @@
     if (hasAdmin) {
       host.querySelector("h1").after(DictionaryLocalAdmin.editLink(entry, "この語を編集"));
     }
-    document.title = `${entry.title} | 創作文法辞書`;
+    document.title = `${entry.title} | 創作文法辞典`;
 
     const related = [...new Set([
       ...(entry.related_ids || []),
@@ -43,7 +43,7 @@
     host.replaceChildren(
       DictionaryRender.el("h1", null, "項目を見つけられません"),
       DictionaryRender.el("p", null, error.message),
-      DictionaryRender.link("index.html", "辞書へ戻る", "primary-button inline")
+      DictionaryRender.link("index.html", "辞典へ戻る", "primary-button inline")
     );
   }
 })();

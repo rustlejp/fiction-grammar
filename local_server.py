@@ -70,7 +70,7 @@ def open_dictionary() -> bool:
         print("ローカルエディターが見つかりません。")
         return False
     dictionary = f"{BASE_URL}/docs/"
-    print(f"辞書: {dictionary}（各ページから編集できます）")
+    print(f"辞典: {dictionary}（各ページから編集できます）")
     webbrowser.open(dictionary, new=2)
     return True
 
@@ -80,7 +80,7 @@ def main() -> int:
         server = LocalServer(("::1", PORT), LocalHandler)
     except OSError:
         if already_running():
-            print("創作文法辞書は既に起動しています。辞書を開きます。")
+            print("創作文法辞典は既に起動しています。辞典を開きます。")
             return 0 if open_dictionary() else 1
         print("ポート8080を別のツールが使用中です。")
         print("そのツールを停止してから、もう一度このファイルを開いてください。")

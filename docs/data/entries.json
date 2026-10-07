@@ -1074,7 +1074,7 @@
   {
     "schema_version": 1,
     "id": "character-as-offline-wiki",
-    "title": "キャラクターの記憶が辞書やWikiになっている",
+    "title": "キャラクターの記憶が辞典やWikiになっている",
     "category": "causality",
     "tags": ["異世界", "記憶", "知識", "技術再現"],
     "summary": "元の世界を再確認できない人物が、料理、発酵、蒸留、素材、機械などの複雑な知識を記憶だけで取り出し、異世界で精密に再現する設定。",

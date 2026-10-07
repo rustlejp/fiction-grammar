@@ -762,12 +762,12 @@
     "title": "台詞・仕草・異世界言語・江戸考証など23項目を追加",
     "summary": "芝居がかった台詞、異世界の言語慣習、江戸時代の考証、人物の状態記号、方言の活字感、人間的な神に加え、人物の記憶が資料庫になる設定を収録しました。",
     "entry_ids": ["daga", "iya", "da-na-short-agreement", "blow-smoking-gun-barrel", "ice-clinks-in-glass", "trace-glass-rim-with-finger", "body-shaped-impact-crater", "ancient-being-speaks-modern-language", "other-world-speaks-japanese", "elementary-english-magic-names", "selective-borrowing-of-fantasy-names", "edo-women-modern-ohashori", "all-oiran-speak-arinsu", "edo-modern-height-proportions", "edo-equal-length-hours", "nani-o-itte-interrupted", "repeated-syllable-fictional-stammer", "characters-never-forget-information", "closed-eye-character-is-mastermind", "mind-control-obvious-appearance", "dialect-read-like-written-text", "gods-think-and-feel-like-humans", "character-as-offline-wiki"],
-    "entry_titles": ["「だが、」", "「否」", "短く区切る「だな。」", "撃った後の銃口を口で吹く", "グラスの氷がカランと鳴る", "グラスの縁を指でなぞる", "叩きつけられた場所に丸いくぼみとヒビができる", "古代の存在が後世の言語で話す", "異世界で日本語が通じる", "異世界の魔法名が初歩的なカタカナ英語", "他作品から借りる名称の偏り", "江戸時代の女性がみんな現代風のお端折り", "創作の花魁はみんな一人称が「わっち」", "江戸時代の身長と身長差が現代的", "江戸の「一刻」を現代の固定時間として扱う", "「なにをいって……」で台詞が切れる", "「ば、ばかな」「そ、そんな」と同じ音を繰り返す", "登場人物が一度聞いた情報を忘れない", "いつも目を閉じたキャラクターは上位存在", "操られた人物の見た目が露骨に変わる", "方言が活字どおりに読まれる", "神が人間と同じ感情や思考で行動する", "キャラクターの記憶が辞書やWikiになっている"]
+    "entry_titles": ["「だが、」", "「否」", "短く区切る「だな。」", "撃った後の銃口を口で吹く", "グラスの氷がカランと鳴る", "グラスの縁を指でなぞる", "叩きつけられた場所に丸いくぼみとヒビができる", "古代の存在が後世の言語で話す", "異世界で日本語が通じる", "異世界の魔法名が初歩的なカタカナ英語", "他作品から借りる名称の偏り", "江戸時代の女性がみんな現代風のお端折り", "創作の花魁はみんな一人称が「わっち」", "江戸時代の身長と身長差が現代的", "江戸の「一刻」を現代の固定時間として扱う", "「なにをいって……」で台詞が切れる", "「ば、ばかな」「そ、そんな」と同じ音を繰り返す", "登場人物が一度聞いた情報を忘れない", "いつも目を閉じたキャラクターは上位存在", "操られた人物の見た目が露骨に変わる", "方言が活字どおりに読まれる", "神が人間と同じ感情や思考で行動する", "キャラクターの記憶が辞典やWikiになっている"]
   },
   {
     "date": "2026-09-26",
     "title": "最初の15項目を公開",
-    "summary": "5つの分類から3項目ずつ、創作文法辞書の最初の観察を収録しました。",
+    "summary": "5つの分類から3項目ずつ、創作文法辞典の最初の観察を収録しました。",
     "entry_ids": ["cat-meow-hide", "time-stop-resume", "yareyare"],
     "entry_titles": ["隠れている時の猫の鳴き真似", "時間停止解除後の混乱", "「やれやれ」"]
   }
