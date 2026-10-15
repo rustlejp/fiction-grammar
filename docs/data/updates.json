@@ -1,5 +1,202 @@
 [
   {
+    "date": "2026-10-15",
+    "title": "芝居がかった上位者の承認「よかろう」を追加",
+    "summary": "現代の日常的な承認と区別し、上下関係を誇示する創作口調の機能、現実寄りの代替とコントへの利用を収録しました。",
+    "entry_ids": [
+      "yokarou-theatrical-approval-from-above"
+    ],
+    "entry_titles": [
+      "「よかろう」"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "限定アイテム・生還の言葉・殿・一回きりの罠を追加",
+    "summary": "人物限定の道具、危険へ送り出す一言、殿の別れと再登場、遺跡の罠の再使用性について、機能と反転利用を収録しました。",
+    "entry_ids": [
+      "item-usable-only-by-selected-person",
+      "come-back-alive-without-fail",
+      "you-go-ahead-rearguard",
+      "ancient-ruin-traps-work-only-once"
+    ],
+    "entry_titles": [
+      "特定の人物にしか扱えないアイテム",
+      "「必ず生きて帰れ」",
+      "「お前らは先にいけ」",
+      "遺跡の罠が一回きりの作り"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "文字通り真っ赤になる顔のディフォルメを追加",
+    "summary": "頬の赤みや線から顔全体の変色・発光までの幅と、感情に塗り直しが追いつかないコントへの利用を収録しました。",
+    "entry_ids": [
+      "face-turns-literally-bright-red"
+    ],
+    "entry_titles": [
+      "恥ずかしさなどで顔が文字通り真っ赤になる"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "内心に感情が渦巻く無表情キャラクターを追加",
+    "summary": "無表情と豊かな内面のギャップ、恋愛や食欲での魅力、無表情を保とうとして笑ってしまう反転利用を収録しました。",
+    "entry_ids": [
+      "expressionless-character-full-of-emotions"
+    ],
+    "entry_titles": [
+      "無表情キャラクターが感情渦巻いている"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "いかつい人物のかわいいもの好きを追加",
+    "summary": "見た目と好みのギャップという古典、予想されやすさ、かわいさの基準が周囲と異なる反転を収録しました。",
+    "entry_ids": [
+      "intimidating-character-loves-cute-things"
+    ],
+    "entry_titles": [
+      "いかついキャラクターがかわいいもの好き"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "主人公が昔の志を呼び起こす転機を追加",
+    "summary": "昔の自分や亡き人を重ねて信頼や決断が生まれる古典と、回想しても懐かしむだけで変わらないコントへの反転を収録しました。",
+    "entry_ids": [
+      "protagonist-reawakens-forgotten-ideals"
+    ],
+    "entry_titles": [
+      "忘れていた昔の熱い思いや志を主人公に思い出させられる"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "強さの負け役と賢さを示すチェスを追加",
+    "summary": "高名な強者との比較で主人公を示す型と、チェスで知性や交渉関係を示す型について、発展の余地や描写の整合性、反転案を収録しました。",
+    "entry_ids": [
+      "renowned-warrior-loses-to-establish-protagonist",
+      "chess-demonstrates-intelligence"
+    ],
+    "entry_titles": [
+      "高名な騎士や魔道士などが主人公の強さを補強する負け役",
+      "賢さを説明するチェス"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "筋肉を全ての根拠にする人物像を追加",
+    "summary": "筋肉への極端な信念、努力や情の厚さを示す機能、知性への偏見との区別と反転利用を収録しました。",
+    "entry_ids": [
+      "muscles-are-law-reason-and-everything"
+    ],
+    "entry_titles": [
+      "筋肉こそが法、筋肉こそが理、筋肉こそが全て"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "パリピを主人公の敵対側に置く描写を追加",
+    "summary": "生活様式と迷惑さ・知性を結びつける記号化、相手にも能力や譲れない事情を持たせる描き方、貴族を置く同型の展開を収録しました。",
+    "entry_ids": [
+      "partygoing-group-as-protagonists-antagonists"
+    ],
+    "entry_titles": [
+      "主人公の敵対的勢力がパリピ"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "戦闘にも強い執事を追加",
+    "summary": "元傭兵などの経歴と現在の武力・戦術、定番に寄りやすい名前、強そうでも普通や弱い人物という反転を収録しました。",
+    "entry_ids": [
+      "butler-is-former-mercenary-and-still-formidable"
+    ],
+    "entry_titles": [
+      "執事が元傭兵などで武力・戦術に強い存在"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "黒目を描かずに示す恐れや脅威を追加",
+    "summary": "目を白く抜くことで強い感情を伝える漫画的な記号と、その変化を作中の人物に指摘させる反転利用を収録しました。",
+    "entry_ids": [
+      "pupils-disappear-for-fear-or-awe"
+    ],
+    "entry_titles": [
+      "恐れや脅威などの感情表現として目に黒目を描かない"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "未来の親しさが過去の相手を怖がらせる展開を追加",
+    "summary": "記憶を持つ側と初対面の相手の関係の差、仲を戻そうと急ぐジレンマ、説明が疑いを深めるコント案を収録しました。",
+    "entry_ids": [
+      "future-familiarity-frightens-past-acquaintance"
+    ],
+    "entry_titles": [
+      "未来の記憶の印象で過去のキャラに話しかけて気味悪がられる"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "記憶を持ったまま始める新しい人生を追加",
+    "summary": "異世界に限らない古典として、記憶による好転、苦しみの反復、悪意が感謝へ変わるコメディなど展開の幅を収録しました。",
+    "entry_ids": [
+      "new-life-with-previous-memories"
+    ],
+    "entry_titles": [
+      "記憶を持ったまま新しい人生"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "title": "家の変形と宇宙まで伸びる驚きの声を追加",
+    "summary": "感情を建物や立体文字へ広げる二つの古典的記号と、その変形や衝突を実際の出来事にする反転利用を収録しました。",
+    "entry_ids": [
+      "house-deforms-with-surprised-shout",
+      "surprised-shout-letters-reach-space"
+    ],
+    "entry_titles": [
+      "家の中で驚いた声を上げた時に家がディフォルメで動く",
+      "驚いた声が宇宙まで届いたりする"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "title": "上位存在が作った世界の話を追加",
+    "summary": "作られた世界の内側で進む物語という共有しやすい前提と、住人が視聴者の存在を疑うコント的な展開を収録しました。",
+    "entry_ids": [
+      "world-created-by-a-higher-being"
+    ],
+    "entry_titles": [
+      "上位存在が作った世界の話"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "title": "発展させず置くだけの借りたネタを追加",
+    "summary": "既知のネタの認識の速さと、新しい面白さを作らず置くだけの使用を区別し、没入への影響と主題化による発展を収録しました。",
+    "entry_ids": [
+      "borrowed-old-joke-without-development"
+    ],
+    "entry_titles": [
+      "すでに面白いと認識された枯れた他人のネタを取り入れる"
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "title": "豊かな世界を上回って見える作者の思想を追加",
+    "summary": "作り込み不足とは別に作者が前景化する状態、世界を入口に伝えるメッセージ、第三者視点での確認とコントへの反転利用を収録しました。",
+    "entry_ids": [
+      "author-ideology-outshines-rich-fictional-world"
+    ],
+    "entry_titles": [
+      "創作世界の豊かな設定よりも作者の思想が強い"
+    ]
+  },
+  {
     "date": "2026-10-07",
     "title": "脳を意匠にした強敵・ラスボスを追加",
     "summary": "浮かぶ脳や透明な頭部が伝える不気味さと知性、見た目の脆さ、感覚や身体の不自由を描く余地を収録しました。",
