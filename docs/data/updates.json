@@ -1,5 +1,130 @@
 [
   {
+    "date": "2026-10-24",
+    "title": "背中への接触で照れるラブコメの型を追加",
+    "summary": "接触による距離の意識と、衣服の形や材質に合う感覚描写、衣類の説明が細かすぎる反転案を収録しました。",
+    "entry_ids": [
+      "romcom-contact-against-protagonists-back"
+    ],
+    "entry_titles": [
+      "男子主人公の背中に女子の胸があたっている"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "主人公の介入で生徒が登校する型を追加",
+    "summary": "短い一話で主人公の理解力と仲間入りを描く定番、登校と解決の区別、主人公の想定した筋書きが崩れる反転を収録しました。",
+    "entry_ids": [
+      "protagonist-brings-absent-student-back-to-school"
+    ],
+    "entry_titles": [
+      "主人公が登校拒否生徒を学校に来れるようにする"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "ぐうたらでも頼れる担任教師の型を追加",
+    "summary": "ものぐさな態度と隠れた理解力・能力、生徒との近い口調、教師として真面目に心配されるコントへの反転を収録しました。",
+    "entry_ids": [
+      "slovenly-homeroom-teacher-secretly-capable"
+    ],
+    "entry_titles": [
+      "教師らしからぬぐうたらものぐさ担任教師"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "主人公が受け手へ状況を説明するモノローグを追加",
+    "summary": "本人の思考と受け手への案内を区別し、説明の機能と、相手もモノローグを始める段階上げを収録しました。",
+    "entry_ids": [
+      "protagonist-monologue-explains-situation-to-audience"
+    ],
+    "entry_titles": [
+      "主人公による状況説明モノローグ"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "title": "木から降りられない猫を助ける場面を追加",
+    "summary": "優しさや出会いを描く古典と、救助者まで降りられなくなる既存の変形、バリエーションが多いからこその反転の難しさを収録しました。",
+    "entry_ids": [
+      "rescue-cat-stranded-high-in-tree"
+    ],
+    "entry_titles": [
+      "高い木から降りられなくなった猫を助ける"
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "title": "共通の顔と髪型・服装による人物の描き分けを追加",
+    "summary": "顔を共通化して特徴を伝える表現上の選択と、血縁の裏設定を隠す機能、作中でも全員が親族だったという反転案を収録しました。",
+    "entry_ids": [
+      "main-characters-share-face-except-hair-and-clothes"
+    ],
+    "entry_titles": [
+      "髪型や服装以外メインキャラの顔が同じ"
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "title": "料理などの勝負で人格まで改心する展開を追加",
+    "summary": "テーマとなる能力での敗北が不正や悪意まで洗い流す構図と、勝敗の承認との区別、改心の作用を社会制度へ広げるコント案を収録しました。",
+    "entry_ids": [
+      "defeat-in-themed-contest-reforms-villain"
+    ],
+    "entry_titles": [
+      "料理などで負けると悪人も人が変わったように改心する"
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "title": "落ちた銃の取り合いと同時の弾切れを追加",
+    "summary": "取れそうで取れない格闘の焦らしと、双方の弾切れで戦いを転換する定番について、演出上の役割とコントへの反転を収録しました。",
+    "entry_ids": [
+      "struggling-for-dropped-gun-just-out-of-reach",
+      "both-guns-run-empty-at-same-moment"
+    ],
+    "entry_titles": [
+      "銃が下に落ちたら格闘で取り合いになりなかなか手が届かない",
+      "銃撃戦と格闘の末にお互い同じタイミングで弾切れ"
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "title": "ライブの停電を生の歌や演奏でつなぐ展開を追加",
+    "summary": "停電からの即興の挽回という定番と、会場の盛り上がりと結果の違い、歌や楽器が期待どおり働かない反転案を収録しました。",
+    "entry_ids": [
+      "live-power-outage-saved-by-unplugged-performance"
+    ],
+    "entry_titles": [
+      "ライブ中に電源が落ちて歌や演奏などで場をつなぐ"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "title": "枝の音での発覚と悪態を止めたい心の声を追加",
+    "summary": "静かな逃走を破る物音や察知の視線、発言と自己制止の内心の対比について、機能と反転利用を収録しました。",
+    "entry_ids": [
+      "stealthy-escape-snaps-a-twig",
+      "inner-voice-stop-saying-hurtful-things"
+    ],
+    "entry_titles": [
+      "気付かれないように逃げようとして木枝を踏んで音がなる",
+      "「やめろ…こんな事言いたいわけじゃないのに…」"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "頭から出る湯気や煙の感情記号を追加",
+    "summary": "恥ずかしさの沸騰や考えすぎのショートを示すディフォルメと、除湿機でも消えない湯気へのずれた対策を収録しました。",
+    "entry_ids": [
+      "steam-or-smoke-from-head"
+    ],
+    "entry_titles": [
+      "頭から湯気や煙がでる"
+    ]
+  },
+  {
     "date": "2026-10-15",
     "title": "芝居がかった上位者の承認「よかろう」を追加",
     "summary": "現代の日常的な承認と区別し、上下関係を誇示する創作口調の機能、現実寄りの代替とコントへの利用を収録しました。",
