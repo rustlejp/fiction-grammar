@@ -52,7 +52,11 @@
       throw new Error("保存済みの編集データを読み込めません。編集画面で作業データを確認してください。");
     }
     const merged = new Map(published.map(entry => [entry.id, entry]));
-    workspace.forEach(entry => merged.set(entry.id, DictionaryData.normalizeEntry(entry)));
+    workspace.forEach(entry => {
+      const savedEntry = DictionaryData.reconcileSavedEntry
+        ? DictionaryData.reconcileSavedEntry(entry, merged.get(entry.id)) : entry;
+      merged.set(entry.id, DictionaryData.normalizeEntry(savedEntry));
+    });
     return [...merged.values()];
   }
 

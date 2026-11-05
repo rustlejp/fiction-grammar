@@ -1,5 +1,345 @@
 [
   {
+    "date": "2026-11-06",
+    "title": "釣りで長靴が釣れる古典を追加",
+    "summary": "魚への期待と別の物が出る落差、変形も多い型の難しさ、ガチャ演出やレア度による発展案を収録しました。",
+    "entry_ids": [
+      "fishing-catches-a-boot"
+    ],
+    "entry_titles": [
+      "釣りをすると長靴が釣れる"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "title": "外へ露出する弱点のコアを追加",
+    "summary": "急所を見せる機能と防護との食い違い、コアを守る側の物語、飾りや避け続けるコアによる反転案を収録しました。",
+    "entry_ids": [
+      "weak-point-core-exposed-and-targetable"
+    ],
+    "entry_titles": [
+      "弱点のコアが狙える場所に露出している"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "title": "目をこすって非日常を見直す反応を追加",
+    "summary": "見間違いを疑う古典的な動作と、見直すたびに光景が変わる反復やガチャ演出への反転を収録しました。",
+    "entry_ids": [
+      "rubbing-eyes-before-looking-again"
+    ],
+    "entry_titles": [
+      "非日常のものを見た後、目をこすってから見直す"
+    ]
+  },
+  {
+    "date": "2026-11-02",
+    "title": "経路を示さず口の血で伝えるダメージを追加",
+    "summary": "口内の傷などとは分け、口からの血で大きなダメージを即時に示す記号と、タイミングや反復をずらすコント案を収録しました。",
+    "entry_ids": [
+      "mouth-blood-signals-damage-without-visible-route"
+    ],
+    "entry_titles": [
+      "血を吐く経路のダメージがないのに口から血"
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "title": "逃走中のつまづきで長い間を作る演出を追加",
+    "summary": "転倒そのものではなく動けない理由の薄い停滞を扱い、具体的な障害による描き方と、名前の呼び合いに長大な意味を載せるコント案を収録しました。",
+    "entry_ids": [
+      "stumble-or-injury-to-prolong-dramatic-pause"
+    ],
+    "entry_titles": [
+      "間を作るためのつまづきや負傷"
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "title": "二人きりの閉じ込めと異世界に根付く一国の文化を追加",
+    "summary": "日常空間を閉鎖する物語上の条件と、特定の現世文化だけが既にある異世界を、近い型と区別して反転案とともに収録しました。",
+    "entry_ids": [
+      "two-characters-locked-in-everyday-space",
+      "other-world-already-has-one-earth-countrys-culture"
+    ],
+    "entry_titles": [
+      "倉庫など内側からあかない日常的な場所に２人きりで閉じ込められる",
+      "異世界になぜか特定の国の文化だけ入ってきている"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "解消されず続くすれ違いの構造を追加",
+    "summary": "日常の行き違いと分け、気づきを阻む会話や外的要因、ジャンルを越えた機能と反復・段階上げの自由度を収録しました。",
+    "entry_ids": [
+      "misunderstanding-kept-from-resolving"
+    ],
+    "entry_titles": [
+      "すれ違いに気付かずずっとすれ違い続ける"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "鏡の中の反転した物理世界を追加",
+    "summary": "鏡を別世界の入口にする仕組み、ひびによる帰還の危機、通るとけがをしそうだとためらうコント案を収録しました。",
+    "entry_ids": [
+      "physical-reversed-world-inside-mirrors"
+    ],
+    "entry_titles": [
+      "鏡の中に反転世界が物理的に広がっていて一部の人物だけが入れる"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "最後に施設へ残るAIと届くメッセージを追加",
+    "summary": "AIが人の代わりに残る自己犠牲と最後の通信、退避による希望、引き受けを断られて予定が崩れるコント案を収録しました。",
+    "entry_ids": [
+      "ai-companion-stays-behind-and-sends-final-message"
+    ],
+    "entry_titles": [
+      "仲間になったAIが最後に爆発する施設へ残り、メッセージを届ける"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "核で滅んだポストアポカリプスの導入を追加",
+    "summary": "崩壊理由を短く伝える定番の利点と導入の工夫、別の原因や謎という選択肢、犯人探しを優先するコント案を収録しました。",
+    "entry_ids": [
+      "post-apocalyptic-world-destroyed-by-nuclear-war"
+    ],
+    "entry_titles": [
+      "ポストアポカリプスの世界が核で滅んだ世界"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "人外化した人物の心と衝動の葛藤を追加",
+    "summary": "本人の制御と周囲の信頼・見限りの対立、敵からの誘惑、善良な会話と身体の動きが食い違うコント案を収録しました。",
+    "entry_ids": [
+      "partly-inhuman-character-torn-between-impulses"
+    ],
+    "entry_titles": [
+      "半分人じゃなくなって人の心と別のなにかの間で揺れ動く"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "安心させる言葉と怒り顔の矛盾を追加",
+    "summary": "日常の『結局怒る』とは分け、告白前から言葉と表情が食い違う演出と、安心できる顔作りへ発展するコント案を収録しました。",
+    "entry_ids": [
+      "reassuring-words-already-angry-face"
+    ],
+    "entry_titles": [
+      "安心させる言葉と、すでに怒っている表情が矛盾する"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "指紋を再現して認証を通す描写を追加",
+    "summary": "指紋の再現と認証成功を結ぶ創作上の見せ方、解除せず別の秘密が判明するコントへの展開を収録しました。",
+    "entry_ids": [
+      "replicated-fingerprint-unlocks-sensor-in-fiction"
+    ],
+    "entry_titles": [
+      "指紋センサーの上に膜や粉など指紋を再現してロック解除"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "被弾だけで脇役を即死扱いする省略を追加",
+    "summary": "主要人物の生存時間とは分け、脇役の死亡を雑に確定する描写と没入への影響、役割による生存力を自覚するコント案を収録しました。",
+    "entry_ids": [
+      "minor-characters-declared-dead-on-any-hit"
+    ],
+    "entry_titles": [
+      "脇役は被弾しただけで即死扱いになる"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "隠された災厄の原因・救助からの対立・プロペラの脱出路を追加",
+    "summary": "守る組織が原因を隠す展開、救った存在が問題の中心になる導入、大型プロペラを通る障害を、それぞれの機能と反転案とともに収録しました。",
+    "entry_ids": [
+      "protected-authority-secretly-caused-monster-threat",
+      "rescued-being-is-center-of-conflict",
+      "escape-route-through-giant-spinning-fan"
+    ],
+    "entry_titles": [
+      "モンスターに襲われる原因を守る側の上層部が作っていた",
+      "助けた対象が「問題の中心」で巻き込まれる",
+      "大型プロペラのある場所を通らないといけない"
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "きらめきで探しものや手がかりを示す演出を追加",
+    "summary": "人物や受け手へ発見を促す光の記号と実際の反射の違い、光るはずという期待を使った反転案を収録しました。",
+    "entry_ids": [
+      "glint-reveals-object-or-clue"
+    ],
+    "entry_titles": [
+      "探しものが見つかる時に金属などの反射部分がキラリと光る"
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "title": "天使と悪魔が内心の選択を誘う型を追加",
+    "summary": "葛藤を擬人化した会話で示す機能と、天使の堕落や第三勢力も定番化した中でさらに外す難しさを収録しました。",
+    "entry_ids": [
+      "personal-angel-and-devil-debate-decisions"
+    ],
+    "entry_titles": [
+      "天使と悪魔が思考を左右してくる"
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "title": "同じ衝撃で戻る記憶とスイカ割りの頭を追加",
+    "summary": "反復する衝撃を記憶回復のスイッチにする因果と、スイカの位置の頭をめぐる回避の古典を、現実の安全との区別や反転案とともに収録しました。",
+    "entry_ids": [
+      "second-head-impact-restores-memory",
+      "buried-head-replaces-watermelon-in-game"
+    ],
+    "entry_titles": [
+      "頭に衝撃で記憶消失、もとに戻すには同じ衝撃",
+      "スイカ割りで体を埋められてスイカの位置に頭"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "威勢のよい芝居語尾「やってやらァ！」を追加",
+    "summary": "挑発に応じる気持ちと語尾の創作性を分け、口調だけではネタにならない点と、予想される失敗の先への展開を収録しました。",
+    "entry_ids": [
+      "yatte-yaraa-theatrical-defiant-ending"
+    ],
+    "entry_titles": [
+      "「やってやらァ！」"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "芝居がかった非難「おめおめと」を追加",
+    "summary": "意味と上位者の構えを同時に伝える口調、日常での響き、実力が伴わない先輩という反転案を収録しました。",
+    "entry_ids": [
+      "omeome-to-theatrical-reproach"
+    ],
+    "entry_titles": [
+      "「おめおめと」"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "動物キャラクターの尻尾を弱点にする型を追加",
+    "summary": "尻尾で全身の力を制限する仕組みと克服の展開、現実の動物への模倣を避ける注意、九尾すべてが弱点になる反転案を収録しました。",
+    "entry_ids": [
+      "animal-character-tail-is-weak-point"
+    ],
+    "entry_titles": [
+      "動物キャラの尻尾が弱点"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "顔のホクロとヒロイン・脇役の配置を追加",
+    "summary": "意図的に加える顔の特徴と配役の読み方、位置による印象、例外でつまずくメインヒロイン検定のコント案を収録しました。",
+    "entry_ids": [
+      "facial-mole-signals-supporting-or-losing-heroine"
+    ],
+    "entry_titles": [
+      "顔にホクロがあると負けヒロインや脇役"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "内容を受け手にも伏せる耳打ちを追加",
+    "summary": "秘密の言葉への期待と、耳打ちの動作自体への周囲の無反応を分け、気づかれていることや無関係な内容による反転案を収録しました。",
+    "entry_ids": [
+      "whisper-hidden-from-audience"
+    ],
+    "entry_titles": [
+      "耳元で視聴者にもわからない言葉を伝える"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "冗談で上役口調になる人物の会話を追加",
+    "summary": "普段の口調との切り替えで照れや対抗心を載せる機能と、現実の冗談との区別、相手も役を演じ始める反転案を収録しました。",
+    "entry_ids": [
+      "heroine-jokingly-adopts-pompous-superior-voice"
+    ],
+    "entry_titles": [
+      "ヒロインなどが冗談で偉そうな口調を使う"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "定型的な絡まれ方で示す治安の悪さを追加",
+    "summary": "街での迷惑行為を導入に使う機能、反復による文化の見え方、描写と肯定の区別、救助の型を外すコント案を収録しました。",
+    "entry_ids": [
+      "stereotyped-street-harassment-as-bad-public-order"
+    ],
+    "entry_titles": [
+      "治安が悪い"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "敗走の捨て台詞「覚えてろ」を追加",
+    "summary": "定番感の強い悪役の台詞とシリアスでの扱い、独自の台詞回しの余地、実際に覚えることで外すコント案を収録しました。",
+    "entry_ids": [
+      "oboetero-defeated-villain-parting-threat"
+    ],
+    "entry_titles": [
+      "「覚えてろ」"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "芝居がかった評価「口ほどにもない」を追加",
+    "summary": "優位さを短く示す創作口調と日常的な言い方の違い、決め台詞として共有しやすいコントへの利用を収録しました。",
+    "entry_ids": [
+      "kuchihodo-nimo-nai-theatrical-dismissal"
+    ],
+    "entry_titles": [
+      "「口ほどにもない」"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "主人公の立場で流される不適切な発言を追加",
+    "summary": "能力や人気が下ネタ・セクハラ発言の免責になる構図、別の人物描写の手段と、周囲が真面目に対応する反転案を収録しました。",
+    "entry_ids": [
+      "protagonist-status-excuses-sexual-harassment-remarks"
+    ],
+    "entry_titles": [
+      "創作の主人公だから許される下ネタやセクハラ発言"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "命乞いの立場逆転と弱者の粘りによる勝利を追加",
+    "summary": "他者の命乞いを拒んだ側の懇願と、実力では負けても相手を折れさせる定番について、人物の事情と勝利の意味、反転利用を収録しました。",
+    "entry_ids": [
+      "mocking-mercy-then-begging-for-life",
+      "weaker-character-persists-until-opponent-yields"
+    ],
+    "entry_titles": [
+      "命乞いを笑っていた側が命乞い",
+      "圧倒的に弱いキャラクターがあきらめないことで相手が折れる"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "芝居がかった正答への応答「御名答」を追加",
+    "summary": "日常的な相づちと区別し、余裕や優位さ、芝居がかった親しみを示す機能と、口調自体が目立つコントへの利用を収録しました。",
+    "entry_ids": [
+      "gomeitou-theatrical-correct-answer"
+    ],
+    "entry_titles": [
+      "「御名答」"
+    ]
+  },
+  {
     "date": "2026-10-24",
     "title": "背中への接触で照れるラブコメの型を追加",
     "summary": "接触による距離の意識と、衣服の形や材質に合う感覚描写、衣類の説明が細かすぎる反転案を収録しました。",
@@ -930,7 +1270,7 @@
     "title": "人物の役割で変わる最期の長さを追加",
     "summary": "死に役の即座の退場と重要人物の長い最期の会話を対比し、致命傷と心停止、演出時間と作中時間を区別しました。",
     "entry_ids": ["death-duration-follows-character-importance"],
-    "entry_titles": ["死に役は即死、重要人物は致命傷でも長く話す"]
+    "entry_titles": ["重要人物は致命傷でも長く話す"]
   },
   {
     "date": "2026-09-28",
