@@ -1,5 +1,146 @@
 [
   {
+    "date": "2026-11-11",
+    "title": "ヘリの登場音と乗り込みをめぐる定番を追加",
+    "summary": "登場まで音が聞こえない演出と、乗り込みが見せ場になると難航する展開を収録しました。",
+    "entry_ids": [
+      "loud-vehicle-silent-until-reveal",
+      "helicopter-boarding-fails-when-central"
+    ],
+    "entry_titles": [
+      "大きな音のする乗り物が登場するまで聞こえない",
+      "ヘリに乗れるかが見せ場になると、すんなり乗れない"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "危機でパリピが真っ先に脱落する型を追加",
+    "summary": "打開力や背景が与えられない扱いと、真っ先に脱落しそうな人物だけが生き残る反転を収録しました。",
+    "entry_ids": [
+      "partygoers-written-as-disposable-in-crises"
+    ],
+    "entry_titles": [
+      "パリピは解決力や生存力がない"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "メガネを外すと目が「３３」になる表現を追加",
+    "summary": "目を細める仕草のデフォルメと、メガネをかけても形が変わらないコントの種を収録しました。",
+    "entry_ids": [
+      "glasses-off-eyes-become-threes"
+    ],
+    "entry_titles": [
+      "メガネを外すと目が「３３」になる"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "迫る天井や壁から抜け出す古典を追加",
+    "summary": "狭まる空間が残り時間を示す演出と、つっかえ棒が役に立たない定番を収録しました。",
+    "entry_ids": [
+      "escaping-closing-walls-or-ceiling"
+    ],
+    "entry_titles": [
+      "迫る天井や壁に押しつぶされる寸前で抜け出す"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "問題解決まで続くループ世界を追加",
+    "summary": "一本道の時間を繰り返す型と、ループの短縮や脱出条件を使った展開を収録しました。",
+    "entry_ids": [
+      "time-loop-until-problem-is-solved"
+    ],
+    "entry_titles": [
+      "問題が解決するまで繰り返されるループ世界"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "子や孫がクローンのように似る描写を追加",
+    "summary": "血筋や能力の継承を見た目で伝える演出と、配偶者の面影が見えないズレを収録しました。",
+    "entry_ids": [
+      "descendants-look-like-clones"
+    ],
+    "entry_titles": [
+      "子や孫がクローンのように似ている"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "「俺、バカだからわかんねぇけど」を追加",
+    "summary": "頭脳役とは別の力で主人公が状況を動かす王道の台詞を収録しました。",
+    "entry_ids": [
+      "ore-baka-dakara-hero-solves-it"
+    ],
+    "entry_titles": [
+      "「俺、バカだからわかんねぇけど」"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "「年貢の納めどきだな」を追加",
+    "summary": "追い詰めた側の決め台詞と、慣用句が通じないコントの種を収録しました。",
+    "entry_ids": [
+      "nengu-no-osamedoki-theatrical-reckoning"
+    ],
+    "entry_titles": [
+      "「年貢の納めどきだな」"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "高速戦闘が見せ場で見える演出を追加",
+    "summary": "スローとの違いと、見える中堅の実況を使ったコントの種を収録しました。",
+    "entry_ids": [
+      "invisible-speed-fight-visible-at-climax"
+    ],
+    "entry_titles": [
+      "目に見えない速さで戦えるのに、見せ場ほど戦闘が見える"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "作中の劇で「木」の役をやる定番を追加",
+    "summary": "少人数でも木が配役される違和感と、配役や役作りから展開を広げる種を収録しました。",
+    "entry_ids": [
+      "main-character-plays-a-tree"
+    ],
+    "entry_titles": [
+      "劇でその回のメインキャラクターが「木」の役をやる"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "「やったか……！？」のフラグを追加",
+    "summary": "戦闘続行を予感させる台詞と、やれていない結果を保ったまま展開をずらす種を収録しました。",
+    "entry_ids": [
+      "yattaka-signals-enemy-survival"
+    ],
+    "entry_titles": [
+      "「やったか……！？」と言うとやれていない"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "title": "武器を構えると鳴る効果音を追加",
+    "summary": "構えを伝える定番の擬音と、静かな場面で音が目立つ違和感を収録しました。",
+    "entry_ids": [
+      "weapon-ready-sound-without-source"
+    ],
+    "entry_titles": [
+      "音がする状態でないのに武器を構えると効果音が入る"
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "title": "作中人物が創作あるあるに気付かない前提を追加",
+    "summary": "受け手と人物の知識の差、世界内で共有される定番との整合、複数のあるあるを知るがゆえの混乱による発展案を収録しました。",
+    "entry_ids": ["characters-unaware-of-fictional-conventions"],
+    "entry_titles": ["創作世界のキャラクターは創作あるあるを知らない・気付かない"]
+  },
+  {
     "date": "2026-11-06",
     "title": "釣りで長靴が釣れる古典を追加",
     "summary": "魚への期待と別の物が出る落差、変形も多い型の難しさ、ガチャ演出やレア度による発展案を収録しました。",
